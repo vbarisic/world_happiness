@@ -15,12 +15,12 @@ Aside from World Happiness Reports from 2015 to 2019, additional datasets to be 
   * WHO Suicide Statistics - Do lower-ranked countries have higher rates of suicide?
   * Education Attainment - Is ignorance truly bliss?
   * Religion - Does religion, or faith, provide happiness?
-  * GDP per Capita - They say money can't buy you happiness, but it won't make you sad, either. (While already used in the Report, GDP per     capita is given as a ranking as opposed to currency)
+  * GDP per Capita - They say money can't buy you happiness, but it won't make you sad, either. Or, will it? (While already used in the     Report, GDP per capita is given as a ranking as opposed to currency)
   * Rates of Unemployment - lack of employment might indicate financial hardship, and thus lower happiness levels. Is this true?
   
-#### Let's find out!
+Let's find out!
 
-#### But first...
+But first...
 
 ## Gotta clean the data
 
