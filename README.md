@@ -24,7 +24,7 @@ But first...
 
 ## Gotta clean the data
 
-I was lucky enough to find very clean datasets for the World Happiness Report from 2015 to 2019, but I couldn't find any data for it for the years prior to 2015. Other data needed to be cleaned, and many of the datasets have some missing information, such as lack of data for particular countries or for the particular years I was analyzing, or both!
+I was lucky enough to find already cleaned datasets for the World Happiness Report from 2015 to 2019, but I couldn't find any data for it for the years prior to 2015. Other data needed to be cleaned, and many of the datasets have some missing information, such as lack of data for particular countries or for the particular years I was analyzing, or both!
 
 ## Challenges along the way
 
