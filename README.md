@@ -41,3 +41,4 @@ The lack of data for the countries and years in question is the biggest challeng
 
 ## Project screenshots
 ![Alt text](/images/gdppcap_vs_happiness.png)
+![Alt text](/images/suicide_rates_worldmap.png)
