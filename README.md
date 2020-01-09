@@ -17,6 +17,7 @@ Aside from World Happiness Reports from 2015 to 2019, additional datasets to be 
   * Religion - Does religion, or faith, provide happiness?
   * GDP per Capita - They say money can't buy you happiness, but it won't make you sad, either. Or, will it? (While already used in the     Report, GDP per capita is given as a ranking as opposed to currency)
   * Rates of Unemployment - lack of employment might indicate financial hardship, and thus lower happiness levels. Is this true?
+  * Physical Activity - Are active people happier?
   
 Let's find out!
 
@@ -30,4 +31,13 @@ I was lucky enough to find already cleaned datasets for the World Happiness Repo
 
 The lack of data for the countries and years in question is the biggest challenge of this analysis. I scoured the web in search of the most complete datasets, but ultimately some countries just do not have the information I need. This analysis is a work in progress, so I'm sure other challenges and issues will come up along the way.
 
+## Tools and packages used
+* Excel - for cleaning data
+* Pandas - data manipulation and cleaning
+* Matplotlib - data visualization
+* Seaborn - data visualization
+* Numpy - for obtaining Pearson coefficient correlation
+* Plotly - for plotting world maps
 
+## Project screenshots
+![Alt text](/images/gdppcap_vs_happiness.png)
