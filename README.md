@@ -25,11 +25,11 @@ But first...
 
 ## Clean the data
 
-I was lucky enough to find already cleaned datasets for the World Happiness Report from 2015 to 2019, but I couldn't find any data for it for the years prior to 2015. Other data needed to be cleaned, and many of the datasets have some missing information, such as lack of data for particular countries or for the particular years I was analyzing, or both!
+I was lucky enough to find already cleaned datasets for the World Happiness Report from 2015 to 2019, but I couldn't find any data for it for the years prior to 2015. Other data needed to be cleaned, and many of the datasets have some missing information, such as lack of data for particular countries or for the particular years I was analyzing, or both! 
 
 ## Challenges along the way
 
-The lack of data for the countries and years in question is the biggest challenge of this analysis. I scoured the web in search of the most complete datasets, but ultimately some countries just do not have the information I need. This analysis is a work in progress, so I'm sure other challenges and issues will come up along the way.
+The lack of data for the countries and years in question is the biggest challenge of this analysis. I scoured the web in search of the most complete datasets, but ultimately some countries just do not have the information I need. The unemployment rates and physical activity datasets, for example, lacked data most, if not all, of the bottom ranked countries. There was sufficient data for the top ranked countries, but without having information on the bottom ranked countries, it was impossible to draw correlations of happiness levels with unemployment and physical activity rates.
 
 ## Tools and packages used
 * Excel - for cleaning data
