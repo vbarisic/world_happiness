@@ -5,9 +5,9 @@
 What makes one country happier than the other? Why are Northern Europeans ranked one of the happiest year after year, while the least happiest countries tend to be mostly in Africa? 
 
 The World Happiness Report, published annually since 2012, measures the overall happiness of more than 150 countries based on six criteria:
-social support, GDP per capita, health (life expectancy), freedom to make life choices, generosity, perceptions of corruption, and dystopia. While happiness can, and often is, quite subjective, the Report provides an interesting glimpse into the quality of life in the surveyed countries. 
+social support, GDP per capita, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. While happiness can, and often is, quite subjective, the Report provides an interesting glimpse into the quality of life in the surveyed countries. 
 
-In addition to the World Happiness Report, I wanted to explore the different societal factors that may correlate or contribute to happiness by examining the ten top- and bottom-ranked countries from 2015-2019. 
+In addition to the World Happiness Report, I wanted to explore the different social factors that may correlate or contribute to happiness by examining the ten top- and bottom-ranked countries from 2015-2019. 
 
 ## Gather the data
 
